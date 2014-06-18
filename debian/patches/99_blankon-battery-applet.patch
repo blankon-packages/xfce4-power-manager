@@ -1,0 +1,12 @@
+diff -Naur xfce4-power-manager-1.2.0.orig/settings/xfce4-power-manager-settings.desktop.in xfce4-power-manager-1.2.0/settings/xfce4-power-manager-settings.desktop.in
+--- xfce4-power-manager-1.2.0.orig/settings/xfce4-power-manager-settings.desktop.in	2012-04-29 03:40:06.000000000 +0700
++++ xfce4-power-manager-1.2.0/settings/xfce4-power-manager-settings.desktop.in	2014-06-18 19:11:37.520495634 +0700
+@@ -8,7 +8,7 @@
+ Terminal=false
+ Type=Application
+ Categories=XFCE;GTK;Settings;DesktopSettings;X-XFCE-SettingsDialog;X-XFCE-HardwareSettings;
+-OnlyShowIn=XFCE;
++OnlyShowIn=XFCE;GNOME;
+ StartupNotify=true
+ X-XfcePluggable=true
+ X-XfceHelpFile=xfce4-power-manager
