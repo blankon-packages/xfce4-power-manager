@@ -1,8 +1,14 @@
+xfce4-power-manager (1.4.0-2blankon2) tambora; urgency=medium
+
+  * re-patch 99_blankon-battery-applet.patch
+
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>>  Sun, 28 Sep 2014 22:20:30 +0700
+
 xfce4-power-manager (1.4.0-2blankon1) tambora; urgency=medium
 
   * 99_blankon-battery-applet.patch
 
- -- mijortsa <mijortsa@localhost>  Sun, 28 Sep 2014 21:47:07 +0700
+ -- mijortsa <azis.astrojim@surabaya.di.blankon.in>  Sun, 28 Sep 2014 21:47:07 +0700
 
 xfce4-power-manager (1.4.0-2) unstable; urgency=medium
 
